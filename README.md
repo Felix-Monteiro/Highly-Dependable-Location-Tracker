@@ -1,4 +1,4 @@
-# Secure-Communication
+# Highly-Dependable-Location-Tracker
 The world pandemic we live in calls for tools for dependable location tracking and contact tracing. The goal of the project is to design and implement a “Highly Dependable Location Tracker”.
 
 # Table of Contents
